@@ -95,15 +95,3 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 ## İletişim
 
 Sorularınız veya önerileriniz için lütfen [Vedat Taşçıer](https://www.vedattascier.com/#iletisim) ile iletişime geçin.
-```
-
-### Açıklamalar:
-
-- **Başlık ve Özellikler:** Projenin genel açıklaması ve özellikleri.
-- **Kurulum:** Python kurulumu ve projeyi indirme adımları.
-- **Kullanım:** Python betiği ve shell betiği ile nasıl çalışılacağı.
-- **Notlar:** Önemli bilgiler ve uyarılar.
-- **Katkıda Bulunanlar ve Lisans:** Projeye katkıda bulunan kişi ve lisans bilgileri.
-- **İletişim:** İletişim bilgileri.
-
-Bu `README.md` dosyası, projeyi kullanacak kişilere nasıl kuracaklarını ve çalıştıracaklarını net bir şekilde açıklar.

@@ -17,7 +17,7 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
 - **Kurbanın Plaka**
 - **Kurbanın Telefonu**
 - **Doğum Tarihi** (isteğe bağlı)
-- **Listene en çok kullanılan parolalar**
+- **En çok kullanılan parolalar**
 
 ## Kurulum
 
@@ -64,7 +64,7 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
    - **Kurbanın Plaka**
    - **Kurbanın Telefonu**
    - **Doğum Tarihi** (isteğe bağlı)
-   - **Listene en çok kullanılan parolalar**
+   - **En çok kullanılan parolalar**
 
 
 3. Bilgiler, kurban adıyla aynı ada sahip bir `.txt` dosyasına kaydedilecektir.

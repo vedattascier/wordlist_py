@@ -12,7 +12,7 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
 - **Kurbanın Yaşadığı İl**
 - **Kurbanın Yaşadığı İlçe**
 - **Kurbanın Kullanıcı Adı**
-- **Kurbanın Çocuğunun TC No**
+- **Kurbanın TC No**
 - **Kurbanın Köpeğinin Adı**
 - **Kurbanın Plaka**
 - **Kurbanın Telefonu**
@@ -59,8 +59,8 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
    - **Kurbanın Yaşadığı İl**
    - **Kurbanın Yaşadığı İlçe**
    - **Kurbanın Kullanıcı Adı**
-   - **Kurbanın Çocuğunun TC No**
-   - **Kurbanın Köpeğinin Adı**
+   - **Kurbanın TC No**
+   - **Kurbanın En Sevdiği Hayvanın Adı**
    - **Kurbanın Plaka**
    - **Kurbanın Telefonu**
    - **Doğum Tarihi** (isteğe bağlı)

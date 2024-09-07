@@ -86,7 +86,7 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
 
 ## Katkıda Bulunanlar
 
-- **Vedat Taşçıer** - [GitHub Profiliniz](https://github.com/your-profile)
+- **Vedat Taşçıer** - [GitHub Profiliniz](https://www.vedattascier.com/#iletisim))
 
 ## Lisans
 

@@ -86,7 +86,7 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
 
 ## Katkıda Bulunanlar
 
-- **Vedat Taşçıer** - [GitHub Profiliniz](https://www.vedattascier.com/#iletisim))
+- **Vedat Taşçıer** - [GitHub Profiliniz]((https://github.com/vedattascier)))
 
 ## Lisans
 
@@ -94,7 +94,7 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ## İletişim
 
-Sorularınız veya önerileriniz için lütfen [Vedat Taşçıer](mailto:your-email@example.com) ile iletişime geçin.
+Sorularınız veya önerileriniz için lütfen [Vedat Taşçıer]((https://www.vedattascier.com/#iletisim)) ile iletişime geçin.
 ```
 
 ### Açıklamalar:

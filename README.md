@@ -13,7 +13,7 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
 - **Kurbanın Yaşadığı İlçe**
 - **Kurbanın Kullanıcı Adı**
 - **Kurbanın TC No**
-- **Kurbanın Köpeğinin Adı**
+- **Kurbanın En Sevdiği Hayvanın Adı**
 - **Kurbanın Plaka**
 - **Kurbanın Telefonu**
 - **Doğum Tarihi** (isteğe bağlı)

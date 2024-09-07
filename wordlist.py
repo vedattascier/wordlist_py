@@ -31,7 +31,7 @@ try:
     d = input('->Kurbanın Yaşadığı İl: ')
     e = input('->Kurbanın Yaşadığı İlçe: ')
     f = input('->Kurbanın Kullanıcı Adı: ')
-    g = input('->Kurbanın Çocuğunun Tc No: ')
+    g = input('->Kurbanın Tc No: ')
     h = input('->Kurbanın Köpeğinin Adı: ')
     i = input('->Kurbanın Plaka: ')
     j = input('->Kurbanın Telefonu: ')

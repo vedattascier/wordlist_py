@@ -30,7 +30,7 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
    Bu projeyi GitHub'dan indirebilir veya klonlayabilirsiniz:
 
    ```bash
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/vedattascier/wordlist_py.git
    ```
 
 3. **Gerekli Paketlerin Yüklenmesi**

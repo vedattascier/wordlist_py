@@ -48,7 +48,7 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
 1. Python betiğini doğrudan çalıştırmak için terminal veya komut istemcisinde aşağıdaki komutu kullanın:
 
    ```bash
-   python3 w.py
+   python3 wordlist.py
    ```
 
 2. Betik çalıştığında, aşağıdaki bilgileri girmeniz istenecektir:
@@ -74,7 +74,7 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
 1. `wordlist.sh` betiğini çalıştırmak için terminal veya komut istemcisinde aşağıdaki komutu kullanın:
 
    ```bash
-   bash wordlist.sh
+   python3 wordlist.py
    ```
 
    Bu betik, Python betiğini çalıştırır ve kullanıcıdan gerekli bilgileri toplar.

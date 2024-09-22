@@ -71,7 +71,7 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
    echo "alias wordlist='bash /tam/yol/wordlist.sh'" >> ~/.bashrc
    ```
 
- ```bash
+   ```bash
    echo "alias wordlist='bash /tam/yol/wordlist.sh'" >> ~/.zshrc
    ```
 

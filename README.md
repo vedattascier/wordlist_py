@@ -68,11 +68,11 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
 
 
    ```bash
-   echo "alias wordlist='/home/vedattascier/wordlist_py/wordlist.py'" >> ~/.bashrc
+   echo "alias wordlist='python3 /home/vedattascier/wordlist_py/wordlist.py'" >> ~/.bashrc
    ```
 
    ```bash
-   echo "alias wordlist='/home/vedattascier/wordlist_py/wordlist.py'" >> ~/.zshrc
+   echo "alias wordlist='python3 /home/vedattascier/wordlist_py/wordlist.py'" >> ~/.zshrc
    ```
 
 

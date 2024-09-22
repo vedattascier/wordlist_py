@@ -33,13 +33,7 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
    git clone https://github.com/vedattascier/wordlist_py.git
    ```
 
-3. **Gerekli Paketlerin Yüklenmesi**
 
-   Proje bir Python betiği içerdiği için, gerekli Python modüllerini yükleyin:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Kullanım
 
@@ -71,13 +65,17 @@ Bu proje, kişiye özel bir wordlist oluşturmanıza yardımcı olur. Python bet
 
 ### Shell Betiğini Kullanma
 
-1. `wordlist.sh` betiğini çalıştırmak için terminal veya komut istemcisinde aşağıdaki komutu kullanın:
+
 
    ```bash
-   python3 wordlist.py
+   echo "alias wordlist='bash /tam/yol/wordlist.sh'" >> ~/.bashrc
    ```
 
-   Bu betik, Python betiğini çalıştırır ve kullanıcıdan gerekli bilgileri toplar.
+ ```bash
+   echo "alias wordlist='bash /tam/yol/wordlist.sh'" >> ~/.zshrc
+   ```
+
+
 
 ## Notlar
 
